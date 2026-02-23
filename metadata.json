@@ -1,0 +1,5 @@
+{
+  "name": "Voice Tasks",
+  "description": "A minimalist app to record audio and convert it into structured tasks with reminders.",
+  "requestFramePermissions": ["microphone"]
+}
